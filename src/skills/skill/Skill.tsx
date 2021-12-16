@@ -6,7 +6,7 @@ const Skill = () => {
 
   return (
     <div className={s.skill}>
-      <div className={s.icon}></div>
+      <div className={s.icon}><div>ICON</div></div>
     </div>
   );
 };

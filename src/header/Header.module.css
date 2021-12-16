@@ -1,8 +1,10 @@
-.header {
-    background-color: cornflowerblue;
+.headerBlock {
+    background-color: #98B4D4;
+    height: 80px;
+}
+
+.headerContainer {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    height: 100px;
-    width: 100%;
 }
