@@ -3,6 +3,12 @@
     background-color: #1D232E;
 }
 
+.mainContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .greeting {
     width: 400px;
     border: 2px solid #ffffff;
