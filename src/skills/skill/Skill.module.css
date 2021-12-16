@@ -1,0 +1,10 @@
+.skill {
+    border: 2px solid black;
+    width: 300px;
+    margin: 30px 0;
+}
+
+.icon {
+    height: 200px;
+    width: 100%;
+}
