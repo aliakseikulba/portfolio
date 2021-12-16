@@ -1,0 +1,44 @@
+.project {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.view {
+    border: 2px solid white;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lookBtn {
+    padding: 10px 15px;
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    font-size: 1.5rem;
+    transition: 0.2s;
+    letter-spacing: 4px;
+}
+
+.lookBtn:hover {
+    padding: 10px 15px;
+    border: 2px solid #363945;
+    color: #363945;
+    background-color: white;
+    font-size: 1.5rem;
+    transition: 0.2s;
+}
+
+.projectName {
+    color: white;
+    margin: 10px 0;
+}
+
+.description {
+    color: white;
+    margin: 0;
+}
